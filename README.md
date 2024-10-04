@@ -3,7 +3,7 @@ In a statement, given clinical parameters about a patient, can we predict whethe
 
 # Data
 - The original data came from the Cleavland data from the UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/45/heart+disease
-- There is also a version of it available on Kaggle: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download
+- There is also a version of it available on Kaggle: https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
 
 # Installation
 - conda env
@@ -12,3 +12,4 @@ In a statement, given clinical parameters about a patient, can we predict whethe
 - numpy
 - matplotlib
 - pandas
+- seaborn
